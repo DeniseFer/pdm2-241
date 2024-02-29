@@ -6,5 +6,6 @@
 
 
 
-  
+- Nome: Denise Ferreira de Abreu
+- Turma: P5 de Informática
 - Repositório destinado à disciplina de P.D.M.
