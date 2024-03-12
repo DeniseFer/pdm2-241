@@ -10,7 +10,6 @@ void main() async {
   // Executando outras tarefas enquanto aguarda a conclusão da operação assíncrona
   print('Iniciando outras tarefas...');
   await Future.delayed(Duration(seconds: 1));
-  print('Denise');
   print('Continuando outras tarefas...');
 
   // Recebendo o resultado da operação assíncrona
