@@ -2,7 +2,7 @@
 # Avaliação 09
 
 `Criadora: Denise Ferreira de Abreu`
-`Arquivo zipado, pois é muito grande`
+`Anexei os arquivos principais, pois é muito grande`
 
 <br>
 <br>
